@@ -21,7 +21,7 @@
     "fs-extra": "^1.0.0",
     "googleapis": "^59.0.0",
     "gulp": "^4.0.0",
-    "http-proxy": "^1.14.0",
+     "http-proxy": "^1.14.0",
     "magnet-link": "^1.1.1",
     "magnet-uri": "^5.1.5",
     "mega": "^0.2.0",
